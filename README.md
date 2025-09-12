@@ -14,7 +14,7 @@
 ### How to install
 
 ```sh
-// git clone git@github.com:kanto-luna/lim-autoscroll-table-vue.git
+# git clone git@github.com:kanto-luna/lim-autoscroll-table-vue.git
 cd lim-autosscroll-table-vue
 npm i
 npm run dev
